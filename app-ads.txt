@@ -1981,6 +1981,8 @@ iqzone.com,IQ96,DIRECT
 
 iqzone.com,IQ97,RESELLER
 
+ironsrc.com, 642441, Direct
+
 ironsrc.com, 220701, RESELLER
 
 ironsrc.com, 222871, RESELLER, 79929e88b2ba73bc
